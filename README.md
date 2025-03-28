@@ -6,7 +6,7 @@ Software Engineer
 
 
 
-<p align="center"> <img src="https://octodex.github.com/images/privateinvestocat.jpg"> </p>
+<p align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRvdWJrb2hlMWtzODZ6ZGlsNDFid3JtdzNnbHkwcWV0Mmwyam9vZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif"> </p>
 
    [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
    
